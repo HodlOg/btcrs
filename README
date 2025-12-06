@@ -1,0 +1,12 @@
+[X] ECDSA: RFC 6979 deterministic nonces + BIP 62 low-S normalization
+[X] Keys: Compressed/uncompressed pubkeys, Base58Check addresses
+[X] Transactions
+[X] Basic Script
+[X] Merkle Trees: Root computation + SPV proofs
+[X] Basic P2P handshake protocol
+[ ] BIP 143 SegWit sighash
+[ ] P2WPKH detection + signing  
+[ ] OP_IF/ELSE/ENDIF
+[ ] Remove panics/unwraps in network code
+[ ] Basic UTXO struct to track coins
+[ ] Test with testnet faucet coins
